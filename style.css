@@ -2,26 +2,26 @@
 selectors). */
 body {
   margin: 25px;
-  background-color: rgb(240, 240, 240);
+  background-color: rgba(240, 240, 240, 0.715);
   font-family: arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 /* Applies to all <h1>...</h1> elements. */
 h1 {
-  font-size: 35px;
+  font-size: 36px;
   font-weight: normal;
-  margin-top: 5px;
+  margin-top: 6px;
 }
 
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass {
-  color: red;
+  color: rgba(255, 0, 0, 0.626);
 }
 
 /* Applies to the element with <... id="someid"> specified. */
 #someid {
-  color: green;
+  color: rgba(41, 128, 0, 0.258);
 }
 
 .center {
