@@ -7,10 +7,25 @@ body {
   font-size: 25px;
 }
 
+#rubikImg {
+  display: block;
+  margin: auto;
+  padding-top: 1rem;
+}
+
+#contributors hr
+{
+  margin: 0;
+}
+
 /* Applies to all <h1>...</h1> elements. */
 h1 hover {
   background-color:rgba(153, 153, 153, 0.6);
   font-size: 38px;
+
+  background-color: #9999;
+  font-size: 36px;
+
   font-weight: normal;
   margin-top: 4px;
 }
