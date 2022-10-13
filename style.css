@@ -1,39 +1,49 @@
 /* Applies to the entire body of the HTML document (except where overridden by more specific
 selectors). */
 body {
-  margin: 25px;
-  background-color: rgb(240, 240, 240);
+  margin: 22px;
+  background-color: rgba(127, 105, 8, 0.534);
   font-family: arial, sans-serif;
-  font-size: 14px;
+  font-size: 25px;
+}
+
+#rubikImg {
+  display: block;
+  margin: auto;
+  padding-top: 1rem;
+}
+
+#contributors hr
+{
+  margin: 0;
 }
 b{
   font-style: Fuzzy Bubbles;
 
 }
 /* Applies to all <h1>...</h1> elements. */
-h1 {
-  font-size: 35px;
+h1 hover {
+  background-color:rgba(153, 153, 153, 0.6);
+  font-size: 38px;
+
+  background-color: #9999;
+  font-size: 36px;
+
   font-weight: normal;
-  margin-top: 5px;
+  margin-top: 4px;
 }
 
 /* Applies to all elements with <... class="someclass"> specified. */
 .someclass {
-  color: red;
+  color: rgba(30, 202, 225, 0.556);
 }
 
 /* Applies to the element with <... id="someid"> specified. */
 #someid {
-  color: green;
+  color: rgba(41, 128, 0, 0.258);
 }
 
 .center {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-.w3-button w3-padding-large w3-white w3-border{
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
-
-}
