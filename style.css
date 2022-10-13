@@ -17,7 +17,10 @@ body {
 {
   margin: 0;
 }
+b{
+  font-style: Fuzzy Bubbles;
 
+}
 /* Applies to all <h1>...</h1> elements. */
 h1 hover {
   background-color:rgba(153, 153, 153, 0.6);
@@ -44,4 +47,3 @@ h1 hover {
   display: flex;
   justify-content: center;
   align-items: center;
-}
