@@ -8,7 +8,8 @@
 + clone your repo using git clone
 + open this folder with terminal 
 + open and edit index.html
-  + ADDING BLOGS
+  + Adding Blogs  (**LINE NUMBER 40**)
+  
       ```
        <div class="w3-card-4 w3-margin w3-white">
        
