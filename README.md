@@ -8,6 +8,24 @@
 + clone your repo using git clone
 + open this folder with terminal 
 + open and edit index.html
+
+  + Adding name to contributors (**LINE NUMBER 886**)
+    
+    ```
+       <li class="w3-padding-16 w3-hide-medium w3-hide-small">
+        <img src="https://cdn-icons-png.flaticon.com/512/4616/4616809.png" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">
+        
+        YOUR NAME
+        
+        </span><br>
+        <span>
+        
+        Role
+        
+        </span>
+      </li>  
+    ```
   + Adding Blogs  (**LINE NUMBER 40**)
   
       ```
@@ -39,23 +57,7 @@
         </div>
         <br>
     ```
-    + Adding name to contributors (**LINE NUMBER 886**)
     
-    ```
-       <li class="w3-padding-16 w3-hide-medium w3-hide-small">
-        <img src="https://cdn-icons-png.flaticon.com/512/4616/4616809.png" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-        <span class="w3-large">
-        
-        YOUR NAME
-        
-        </span><br>
-        <span>
-        
-        Role
-        
-        </span>
-      </li>  
-    ```
     
     
 + save and exit
