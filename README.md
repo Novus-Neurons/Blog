@@ -61,7 +61,7 @@
     
     
 + save and exit
-+ git push origin -u your-branch-name
++ git push origin main
 + opne github.com and open this repo. 
 + you should see a compare and create pull request button. 
 + click it
