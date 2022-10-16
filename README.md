@@ -39,7 +39,7 @@
         </div>
         <br>
     ```
-    + ADDING NAME TO CONTRIBUTORS
+    + Adding name to contributors (**LINE NUMBER 886**)
     
     ```
        <li class="w3-padding-16 w3-hide-medium w3-hide-small">
