@@ -41,13 +41,17 @@ h1 hover {
 /* Applies to the element with <... id="someid"> specified. */
 #someid {
   color: rgba(41, 128, 0, 0.258);
-}
 
+.newClass{
 #newID{
+
   background-color: tomato;
   color: white;
   border: 2px solid black;
   margin: 20px;
+
+  padding: 20px;
+
   padding: 20px; 
 }
 
