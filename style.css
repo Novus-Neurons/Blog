@@ -43,6 +43,14 @@ h1 hover {
   color: rgba(41, 128, 0, 0.258);
 }
 
+.newClass{
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
 .center {
   display: flex;
   justify-content: center;
