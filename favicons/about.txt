@@ -1,4 +1,4 @@
-This favicon was generated using the following graphics from Twitter Twemoji:
+This favicon was generated using the following graphics from Twitter Twemoji as given below:
 
 - Graphics Title: 1f516.svg
 - Graphics Author: Copyright 2020 Twitter, Inc and other contributors (https://github.com/twitter/twemoji)
